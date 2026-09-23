@@ -1,4 +1,4 @@
-﻿---
+---
 name: liansuo-diancan
 slug: liansuo-diancan
 displayName: 连锁品牌点餐红包助手
